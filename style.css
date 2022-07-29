@@ -1,0 +1,105 @@
+img{
+
+height:300px;
+border-radius:100px;
+
+
+
+
+
+}
+
+
+#numberone{
+
+font-size:40px;
+font-style:bold;
+text-align:center;
+background:linear-gradient(160deg, red 30%,black 40%, yellow 50%) ;
+color:lightslategray;
+margin-top:50px;
+}
+
+
+#numbertwo{
+
+margin:5px;
+padding:3px;
+background-color:darkkhaki;
+font-size:20px;
+line-height: 3;
+
+}
+
+
+.futa{
+
+bottom:0;
+width:100%;
+text-align:center;
+background-color:azure;
+color:crimson;
+font-size:25px;
+
+}
+
+.menu{
+
+/*list-style:none;*/
+position:fixed;
+background-color: ghostwhite;
+width:100%;
+top:0px;
+/*right:30px;
+cursor:pointer;
+margin-bottom:5px;*/
+margin-top: 0px;
+z-index:10;
+
+
+}
+
+.li{
+
+/*float:left;*/
+padding-right:25px;
+display: inline;
+padding-left:30px;
+padding-top:3px;
+padding-bottom:3px;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+font-size:20px;
+}
+
+#articles{
+
+font-size:30px;
+font-weight:bold;
+padding-bottom:30px;
+}
+
+.li:hover{
+font-size:25px;
+text-decoration:underline;
+
+}
+
+
+
+#articles a{
+
+text-decoration:underline !important;
+color:blue !important;
+
+
+
+   
+}
+.oj h3{
+
+    display: inline;
+font-size: 18px;
+color: black;
+
+
+}
